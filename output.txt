@@ -1,0 +1,12 @@
+Topological sort result for input file: input1
+1 2 3 4 5 6 
+
+
+Topological sort result for input file: input2
+The graph is cyclic.
+
+
+Topological sort result for input file: input3
+The graph is cyclic.
+
+
